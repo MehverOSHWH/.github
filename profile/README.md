@@ -2,7 +2,7 @@
 
 > **This organization is no longer active.**
 
-This is the former home of **@MehverOSHWH**.
+This is the former home of **[@MehverOSHWH](https://github.com/MehverOSHWH)**.
 
 All projects and development have moved to **[@MehverOSHW](https://github.com/MehverOSHW)**.
 
